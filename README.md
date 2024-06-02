@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minjjiyun02&label=Profile%20views&color=0e75b6&style=flat" alt="minjjiyun02" /> </p>
 
-- 🔭 I’m currently working on [Official Website Association for Women in Math at UC Davis](https://github.com/minjiyun02/AWM)
+- 🔭 I’m currently working on [Official Website for Association for Women in Math at UC Davis](https://github.com/minjiyun02/AWM)
 
 - 🌱 I’m currently learning **React, JavaScript, SQL**
 
