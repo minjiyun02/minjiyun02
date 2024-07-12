@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Official Website for Association for Women in Math at UC Davis](https://github.com/minjiyun02/AWM)
 
-- 🌱 I’m currently learning **React, JavaScript, SQL**
+- 🌱 I’m currently learning **React, JavaScript, Webflow, LLM APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/minjiyun02](https://github.com/minjiyun02)
 
@@ -19,13 +19,16 @@
 
 - 📄 Know about my experiences [https://minjiyun02.github.io/portfolio/assets/resume.pdf](https://minjiyun02.github.io/portfolio/assets/resume.pdf)
 
-- ⚡ Fun fact **I love crocheting and painting abstract art!**
+- ⚡ Fun fact **I love crocheting, swimming, and playing the recorder**
+
+- 🌏 I speak English & Korean (native), and Spanish (intermediate)
 
 - Plans for summer:
   - Write tech blogs
   - 82 Startup Ideathon
   - Fix my portfolio
   - Google python certificate
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
