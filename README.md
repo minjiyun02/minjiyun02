@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Minji Yun</h1>
-<h3 align="center">A fast-learning, enthusiastic frontend developer from South Korea</h3>
+<h3 align="center">A fast-learning, enthusiastic full stack developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minjjiyun02&label=Profile%20views&color=0e75b6&style=flat" alt="minjjiyun02" /> </p>
 
